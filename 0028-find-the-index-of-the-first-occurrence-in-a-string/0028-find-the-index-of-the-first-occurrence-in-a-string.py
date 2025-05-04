@@ -14,13 +14,10 @@ class Solution:
                             index += 1
                     else: 
                         break
-                print("index", index)
-                print("needle length", len(needle))
                 if index == len(needle) : 
                     return i 
                 else: 
                     break
             
-        print("index", index)
-        print("needle length", len(needle))           
+         
         return -1
