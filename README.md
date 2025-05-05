@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
