@@ -12,19 +12,15 @@ class Solution:
         while i < m and j < n:
             #merge
             if nums1[i] <= nums2[j]:
-                print("num1 is smaller")
                 answer[total] = nums1[i]
                 total += 1
                 i += 1
-                print("this is i", i)
-                print("this si answer", nums1)
+    
             else: 
-                print("num2 is smaller")
                 answer[total] = nums2[j]
                 total += 1
                 j += 1
-                print("this is j", j)
-                print("this si answer", nums1)
+        
         
         while (i < m):
             answer[total] = nums1[i]
