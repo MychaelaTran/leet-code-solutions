@@ -15,10 +15,11 @@ class Solution:
                 current.val = current.next.val
                 current.next = current.next.next
 
-        #if the last node is a duplicate
+        #handles emoty lsit
         if not current: 
             return None 
-            
+
+        #if the last node is a duplicate
         if current.val in seen: 
             #remove this node
             prevNode = head
