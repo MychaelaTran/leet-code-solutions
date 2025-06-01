@@ -11,7 +11,6 @@ class Solution:
         seen = []
 
         while r < len(s):
-            print("this is s[r]: ", s[r])
             if s[r] not in seen:  
                 seen.append(s[r])
                 temp += 1
@@ -20,9 +19,7 @@ class Solution:
                 if temp > ans:
                     ans = temp
                 to_find = s[r] #the duplicate we need to go up to remove
-                print("this is to_find: ", s[r])
                 while s[l] != to_find:
-                    print("this is s[left]: ", s[l])
                     seen.remove(s[l])
                     l += 1
                     temp -= 1
