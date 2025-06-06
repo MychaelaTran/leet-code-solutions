@@ -1,17 +1,26 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        char_index = {}  # stores the last index of each character
-        max_len = 0
-        start = 0  # left bound of sliding window
+    # Optimal Hashing + Sliding Window Solution
+        char_index = {} #stores letter:index
+        window_start = 0
+        ans = 0
 
-        for end in range(len(s)):
-            ch = s[end]
+        for i in range(len(s)):
+            letter = s[i]
+            if letter in char_index and char_index[letter] >= window_start: 
+                window_start = char_index[letter] + 1
+            
+            char_index[letter] = i
+            ans = max(ans, i-window_start + 1)
 
-            if ch in char_index and char_index[ch] >= start:
-                # move start to right of last occurrence of ch
-                start = char_index[ch] + 1
 
-            char_index[ch] = end
-            max_len = max(max_len, end - start + 1)
+        return ans
 
-        return max_len
+'''
+abcab
+
+i = 0 | {a: 0} | max = 1 | window a
+i = 1 | {a:0, b:1} max = 2  | window ab
+i = 3 | {a:0. b:1, c:2} | max = 3  | window abc
+i = 4 ~ a is in hash , move window up from left to get rid of duplicate | window bca | {a: 3, b:1. c: 3} | max = 3
+'''
