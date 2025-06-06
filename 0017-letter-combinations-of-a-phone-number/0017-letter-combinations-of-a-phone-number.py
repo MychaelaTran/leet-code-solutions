@@ -18,7 +18,7 @@ class Solution:
         def backtrack(index: int, curr_combo: str):
             #add once at final figit 
             if index == len(digits):
-                ans.append(current_combination)
+                ans.append(curr_combo)
                 return
 
             #get digits and alll its letters
