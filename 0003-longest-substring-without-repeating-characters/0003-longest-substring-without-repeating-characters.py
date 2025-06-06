@@ -1,36 +1,17 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        length = len(s)
-        if length == 1: 
-            return 1
-        
-        ans = 0
-        l = 0
-        r = 0
-        temp = 0
-        seen = []
+        char_index = {}  # stores the last index of each character
+        max_len = 0
+        start = 0  # left bound of sliding window
 
-        while r < len(s):
-            if s[r] not in seen:  
-                seen.append(s[r])
-                temp += 1
-                r += 1
-            else: 
-                if temp > ans:
-                    ans = temp
-                to_find = s[r] #the duplicate we need to go up to remove
-                while s[l] != to_find:
-                    seen.remove(s[l])
-                    l += 1
-                    temp -= 1
-                seen.remove(s[l])
-                l += 1
-                temp -=1
-        if temp > ans: 
-            ans = temp
-                
-                
-                            
-        
-        return ans
-        
+        for end in range(len(s)):
+            ch = s[end]
+
+            if ch in char_index and char_index[ch] >= start:
+                # move start to right of last occurrence of ch
+                start = char_index[ch] + 1
+
+            char_index[ch] = end
+            max_len = max(max_len, end - start + 1)
+
+        return max_len
