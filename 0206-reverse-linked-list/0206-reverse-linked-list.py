@@ -10,7 +10,6 @@ class Solution:
         if head is None: 
             return None
         
-        print(head)
 
         
         while curr: 
