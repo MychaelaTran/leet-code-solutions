@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
+| [0864-image-overlap](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0864-image-overlap) |
 ## Math
 |  |
 | ------- |
@@ -207,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
+| [0864-image-overlap](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0864-image-overlap) |
 <!---LeetCode Topics End-->
