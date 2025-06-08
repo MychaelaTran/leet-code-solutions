@@ -6,7 +6,7 @@ class Solution:
             num = 0
             for row in range(size):
                 for col in range(size):
-                    if 0 <= col + dx < size and 0 <= row + dy < size and img1[row + dy][col + dx] == 1 and img2[row][col]: 
+                    if 0 <= col + dx < size and 0 <= row + dy < size and img1[row + dy][col + dx] == 1 and img2[row][col] == 1: 
                         num += 1
             return num
     
