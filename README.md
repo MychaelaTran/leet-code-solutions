@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
 ## Math
 |  |
 | ------- |
@@ -202,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
