@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
+| [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 ## Sorting
 |  |
 | ------- |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
