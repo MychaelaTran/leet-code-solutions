@@ -9,7 +9,6 @@ class Solution:
             row = 1
             col = col_start + 1
             while row < rows and col < cols:
-                print("checking", matrix[row][col], "against", ref)
                 if matrix[row][col] != ref:
                     return False
                 row += 1
@@ -21,7 +20,6 @@ class Solution:
             row = row_start + 1
             col = 1
             while row < rows and col < cols:
-                print("checking", matrix[row][col], "against", ref)
                 if matrix[row][col] != ref:
                     return False
                 row += 1
