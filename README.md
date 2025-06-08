@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0864-image-overlap) |
+| [0898-transpose-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0898-transpose-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0898-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -210,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0864-image-overlap) |
+| [0898-transpose-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0898-transpose-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
