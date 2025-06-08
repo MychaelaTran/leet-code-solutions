@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
