@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Math
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Prefix Sum
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
