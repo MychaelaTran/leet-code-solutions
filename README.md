@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0898-transpose-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
