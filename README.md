@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
