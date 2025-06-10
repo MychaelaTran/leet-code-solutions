@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
+| [1894-merge-strings-alternately](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String Matching
 |  |
