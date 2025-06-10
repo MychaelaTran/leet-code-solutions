@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0344-reverse-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String Matching
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
