@@ -16,7 +16,7 @@ class Solution(object):
                 left += 1
             while left < right and s[right] not in vowels:
                 right -= 1
-
+    
             #swap the vowels once left and right ptr reach a vowel 
             s[left], s[right] = s[right], s[left]
             left += 1
