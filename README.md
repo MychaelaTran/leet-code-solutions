@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [1894-merge-strings-alternately](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1894-merge-strings-alternately) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
