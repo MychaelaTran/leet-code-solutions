@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
