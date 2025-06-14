@@ -22,11 +22,9 @@ class Solution:
                     chars[write] = digit
                     write += 1
             
-            print("write num is ", write)
-            print("kength num is ", length)
+          
         
-        while write < len(chars): 
-            chars.pop()
+        del chars[write:]
         
         return len(chars)
 
