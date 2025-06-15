@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
