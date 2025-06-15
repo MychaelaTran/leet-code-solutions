@@ -12,7 +12,6 @@ class Solution:
                         temp += 1
                 if temp > ans: 
                     ans = temp
-                print("this is temp1 ", temp)
             
             else: 
                 if s[i-1] in vowels: 
@@ -21,7 +20,6 @@ class Solution:
                     temp += 1
                 if temp > ans: 
                     ans = temp
-                print("this is temp2 ", temp)
 
 
         return ans 
