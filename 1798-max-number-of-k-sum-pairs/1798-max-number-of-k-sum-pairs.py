@@ -7,15 +7,14 @@ class Solution:
         r = len(nums) -1
         
         while l < r: 
-            to_find = k - nums[l]
-            if nums[r] == to_find: 
+            total = nums[l] + nums[r]
+            if total == k:
                 count += 1
                 l += 1
                 r -= 1
-            elif nums[r] > to_find: 
-                r -=1
-            else: 
+            elif total < k:
                 l += 1
-                to_find = k - nums[l]
+            else:  # total > k
+                r -= 1
         return count
         
