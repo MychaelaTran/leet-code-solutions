@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
