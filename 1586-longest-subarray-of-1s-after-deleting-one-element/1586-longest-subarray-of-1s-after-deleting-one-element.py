@@ -8,8 +8,6 @@ class Solution:
         for right in range(len(nums)): 
             if nums[right] == 1: 
                 temp += 1
-                print("enterted when right is ", right)
-                print("temp uis ", temp)
                 continue
             else:
                 if not used: 
