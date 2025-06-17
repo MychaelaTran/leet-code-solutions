@@ -7,7 +7,6 @@ class Solution:
         #hash tuples for row 
         for row in range(len(grid)): 
             row_tuple = tuple(grid[row])  #makign row into tuple
-            print("this is row_tiple ", row_tuple)
             if row_tuple not in rows: 
                 rows[row_tuple] = 1
             else:
