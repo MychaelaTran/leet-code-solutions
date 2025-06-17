@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2428-equal-row-and-column-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0898-transpose-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2428-equal-row-and-column-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0898-transpose-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Union Find
 |  |
