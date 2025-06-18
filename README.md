@@ -326,4 +326,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
