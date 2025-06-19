@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0904-leaf-similar-trees) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
