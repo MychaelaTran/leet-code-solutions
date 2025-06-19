@@ -9,37 +9,8 @@ class Solution:
         if root is None: 
             return 0
         
-        if root.left is None and root.right is None:
-            return 1
+        l = self.maxDepth(root.left)
+        r = self.maxDepth(root.right)
+        return 1 + max(l, r)
         
-        height = 2
-        left = 0
-        right = 0
-
-        if root.left is not None: 
-            left = self.helper(root.left, height)
-
-        if root.right is not None: 
-            right = self.helper(root.right, height)
-        
-        return max(left, right)
-
-
-    def helper(self, root, height):
-        if root is not None:
-            if root.left is not None and root.right is not None: 
-                height += 1
-                return max(self.helper(root.left, height), self.helper(root.right , height))
-            
-            if root.left is not None:
-                height += 1
-                return self.helper(root.left, height)
-            
-            if root.right is not None:
-                height += 1
-                return self.helper(root.right, height)
-            
-            return height 
-        else: 
-            return height 
         
