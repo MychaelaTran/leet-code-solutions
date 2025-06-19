@@ -11,9 +11,7 @@ class Solution:
         if root1 is None or root2 is None: 
             return False
         
-        if root1.left is None and root1.right is None: 
-            if root2.left is None and root2.right is None: 
-                return root1.val == root2.val
+
 
         def findLeaf(node, arr): 
             if node is None: 
