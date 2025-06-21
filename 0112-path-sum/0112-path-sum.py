@@ -32,8 +32,6 @@ class Solution:
                 return self.helper(root.right, toFind - root.val) or self.helper(root.left, toFind - root.val)
 
             if root.left is not None:
-                print("Entered when root.val is ", root.val)
-                print("and to find is: ", toFind)
                 return self.helper(root.left, toFind - root.val)
             
             if root.right is not None: 
