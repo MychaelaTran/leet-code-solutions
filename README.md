@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Stack
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
