@@ -22,6 +22,7 @@ class Solution:
                 find(node.left, to_find - node.val , arr + [node.val])
                 #make new arrya for each branch arr + [node.val]
                 #modugy to_find only for this recurssive call not node.right too 
+                print(arr)
             
             if node.right:
                 find(node.right, to_find - node.val, arr + [node.val])
