@@ -21,6 +21,7 @@ class Solution:
                 dfs(node.right, -1, length + 1)
                 dfs(node.left, 1, 1)  #check from ;eft child zigzag
 
+
         dfs(root.left, 1, 1)  
         dfs(root.right, -1, 1)  
 
