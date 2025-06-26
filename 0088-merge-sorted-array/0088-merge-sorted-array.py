@@ -3,31 +3,37 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        #need to merge from the back, to modify nums1 in place
-        i = m -1
-        j = n - 1
+        if m == 0:
+            for i in range(n):
+                nums1[i] = nums2[i]
+            return
+            
+        if n == 0: 
+            return nums1
+
+        one = m - 1
+        two = n - 1
         total = m + n - 1
-
-        while i >= 0  and j >=0: 
-            if nums1[i] >= nums2[j]:
-                nums1[total] = nums1[i]
+        while one >= 0 and two >= 0: 
+            if nums2[two] > nums1[one]: 
+                nums1[total] = nums2[two]
+                two -= 1
                 total -= 1
-                i -= 1
             else: 
-                nums1[total] = nums2[j]
+                nums1[total] = nums1[one]
+                one -= 1
                 total -= 1
-                j -= 1
+        if one >= 0: 
+            while one >= 0: 
+                nums1[total] = nums1[one]
+                one -=1 
+                total -=1
         
-        while i >=0: 
-            nums1[total] = nums1[i]
-            total -= 1
-            i -= 1
-        
-        while j >= 0: 
-            nums1[total] = nums2[j]
-            total -= 1
-            j -= 1
-
-
+        if two >= 0: 
+            while two >= 0: 
+                nums1[total] = nums2[two]
+                two -=1 
+                total -=1
+                
 
         return nums1
