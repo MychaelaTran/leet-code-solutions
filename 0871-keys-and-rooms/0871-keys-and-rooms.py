@@ -11,14 +11,12 @@ class Solution:
                 if curr not in self.visited: 
                     self.visited.append(curr)
                 for i in range(len(rooms[curr])): 
-                    if rooms[curr][i] not in self.keys: 
-                        self.keys.append(rooms[curr][i]) 
+                    if rooms[curr][i] not in self.visited: 
                         self.stack.append(rooms[curr][i])
             return
 
 
         dfs(rooms[0])
-        print(self.visited)
         return len(self.visited) == len(rooms)
 
 
