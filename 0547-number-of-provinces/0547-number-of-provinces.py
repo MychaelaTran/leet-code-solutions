@@ -1,27 +1,19 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        provinces = 1
+        n = len(isConnected)
         seen = set()
-        stack = [0]
+        provinces = 0
 
-        while stack:
-            curr = stack.pop()
-                
-            
-            for i in range(len(isConnected[curr])): 
-                if isConnected[curr][i] == 1 and i not in seen: 
-                    stack.append(i)
-                    seen.add(curr)
-                    
-
-            if not stack and len(seen) != len(isConnected): 
-                # add other province next one to stack to traverse and do provinsces += 1
+        for i in range(n):
+            if i not in seen:
+                stack = [i]
+                while stack:
+                    curr = stack.pop()
+                    if curr not in seen:
+                        seen.add(curr)
+                        for j in range(n):
+                            if isConnected[curr][j] == 1 and j not in seen:
+                                stack.append(j)
                 provinces += 1
-                for i in range(len(isConnected)): 
-                    if i not in seen: 
-                        stack.append(i)
-                        break
 
         return provinces
-
-        
