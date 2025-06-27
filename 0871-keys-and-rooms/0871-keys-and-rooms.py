@@ -1,23 +1,18 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
         #use DFS
-        self.keys = []
-        self.stack = [0]
-        self.visited = []
+        stack = [0]
+        visited = set()
 
-        def dfs(node): 
-            while self.stack: 
-                curr = self.stack.pop()
-                if curr not in self.visited: 
-                    self.visited.append(curr)
-                for i in range(len(rooms[curr])): 
-                    if rooms[curr][i] not in self.visited: 
-                        self.stack.append(rooms[curr][i])
-            return
+        while stack: 
+            curr = stack.pop()
+            if curr not in visited: 
+                visited.add(curr)
+            for i in range(len(rooms[curr])): 
+                if rooms[curr][i] not in visited: 
+                    stack.append(rooms[curr][i])
 
-
-        dfs(rooms[0])
-        return len(self.visited) == len(rooms)
+        return len(visited) == len(rooms)
 
 
 
