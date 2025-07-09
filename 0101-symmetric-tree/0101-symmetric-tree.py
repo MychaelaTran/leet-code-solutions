@@ -4,31 +4,26 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        #use bfs
         if root is None: 
             return True
 
-        left = root.left
-        right = root.right
-
-        return self.isIdentical(left,right)
+        q = deque([(root.left, root.right)])
     
-    def isIdentical(self, p, q) -> bool:
-        if p is None and q is None: 
-            return True
-
-        if p is None and q is not None: 
-            return False
-
-        if q is None and p is not None: 
-            return False
-        
-        #v smillar to #100 but since its mirrored we match them with their mirror ie left to right and right to left 
-        if p.val == q.val:
-            if self.isIdentical(p.right, q.left) and self.isIdentical(p.left, q.right):
-                return True
-            else: 
+        while q: 
+            n1, n2 = q.popleft()
+            if not n1 and not n2: continue
+            elif not n1 or not n2:
                 return False
-        return False
+            else: 
+                if n1.val != n2.val: 
+                    return False
+                q.append((n1.left, n2.right))
+                q.append((n1.right, n2.left))
+        
+        return True
+            
         
