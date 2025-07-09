@@ -9,8 +9,20 @@ class Solution:
         if root is None: 
             return 0
         
-        l = self.maxDepth(root.left)
-        r = self.maxDepth(root.right)
-        return 1 + max(l, r)
+        stack = [(root, 1)]
+        ans = 1
+        while stack: 
+            node, depth = stack.pop()
+            if node: 
+                ans = max(ans, depth)
+                if node.left:
+                    stack.append((node.left, depth + 1))
+                if node.right:
+                    stack.append((node.right, depth + 1))
+        
+        return ans 
+            
+
+
         
         
