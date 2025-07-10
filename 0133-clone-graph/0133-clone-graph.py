@@ -8,31 +8,25 @@ class Node:
 
 from typing import Optional
 from collections import deque
-
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        if not node:
-            return None
-
-        cloned = {}
-        q = deque([node])
-        cloned[node] = Node(node.val) #make sure only clone each node once
-
-        while q:
-            curr = q.popleft()
-            for n in curr.neighbors:
-                if n not in cloned:
-                    cloned[n] = Node(n.val)
-                    q.append(n)
-                cloned[curr].neighbors.append(cloned[n])
-
-        return cloned[node]
-
-
-            
+        if node is None: 
+            return node 
         
+        q = deque([node])
+        clone = {}
+        clone[node] = Node(node.val) #acts as a "visited"
+                                     #that maps node to node val 
 
+        while q: 
+            curr = q.popleft()
+            for n in curr.neighbors: 
+                if n not in clone:
+                    clone[n] = Node(n.val) 
+                    q.append(n)
+                clone[curr].neighbors.append(clone[n])
 
-
+        return clone[node]
+        
 
         
