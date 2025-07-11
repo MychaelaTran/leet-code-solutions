@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -427,7 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
