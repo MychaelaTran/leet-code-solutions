@@ -8,6 +8,7 @@ class Solution:
                 if (rows, cols) not in seen and grid[rows][cols] == "1":
                     ans += 1 
                     q.append([rows, cols])
+                    seen.add((rows, cols))
                     while q: 
                         row, col = q.popleft()
                         if row > 0: 
