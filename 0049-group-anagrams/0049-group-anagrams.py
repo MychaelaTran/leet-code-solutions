@@ -11,7 +11,6 @@ class Solution:
             sortedWord = ''.join(sorted(word))    
             myhash[sortedWord].append(word)
         
-        print(myhash)
         for key in myhash.keys(): 
             temp  = []
             for value in myhash[key]: 
