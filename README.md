@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0118-pascals-triangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
