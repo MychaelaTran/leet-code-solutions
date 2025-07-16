@@ -6,28 +6,21 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        if root is None: 
-            return True
+        self.prev = None
 
-        #inorder traversaL
-        traversal = []
-        def dfs(node): 
-            if not node: 
-                return 
+        def dfs(node):
+            if not node:
+                return True
             
-            dfs(node.left)
-            traversal.append(node.val)
-            dfs(node.right)
-        dfs(root)
-        print(traversal)
-        sorted_arr = sorted(traversal)
-        print(sorted_arr)
-
-        seen = set()
-        for i in range(len(traversal)):
-            if traversal[i] != sorted_arr[i] or traversal[i] in seen:
+            if not dfs(node.left):
                 return False
-            seen.add(traversal[i])
-        
-        return True 
+            
+            if self.prev is not None and node.val <= self.prev:
+                return False
+            self.prev = node.val
+            
+            return dfs(node.right)
+
+        return dfs(root)
+
         
