@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -447,10 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -476,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
