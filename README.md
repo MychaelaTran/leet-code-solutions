@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2428-equal-row-and-column-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2636-maximum-subsequence-score](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2636-maximum-subsequence-score) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2636-maximum-subsequence-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0649-dota2-senate) |
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2636-maximum-subsequence-score](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1539-diagonal-traverse-ii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2636-maximum-subsequence-score) |
 ## Design
 |  |
 | ------- |
