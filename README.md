@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1046-max-consecutive-ones-iii) |
