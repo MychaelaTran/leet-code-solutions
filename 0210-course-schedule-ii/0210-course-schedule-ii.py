@@ -4,10 +4,10 @@ class Solution:
         #only have topologival if DAG 
         #get sink vertex (no outgoing)
         ans = []
-        seen = set()
-        path = set()
+        seen = set() #know we can take
+        path = set() #path of prereqs 
         prereqs = {course:[] for course in range(numCourses)}
-        for course, prereq in prerequisites:
+        for course, prereq in prerequisites: #build adjacney list 
             prereqs[course].append(prereq)
 
 
@@ -21,7 +21,7 @@ class Solution:
             for prereq in prereqs[course]: 
                 if dfs(prereq) == False: 
                     return False
-            path.remove(course) #backtrack 
+            path.remove(course) #backtrack once all prereq satisifed 
             seen.add(course)
             ans.append(course)
             return True 
