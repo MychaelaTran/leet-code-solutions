@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0684-redundant-connection) |
 ## Greedy
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
