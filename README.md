@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0066-plus-one) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0191-number-of-1-bits) |
