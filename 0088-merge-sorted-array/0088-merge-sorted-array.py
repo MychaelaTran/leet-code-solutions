@@ -3,37 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        if m == 0:
-            for i in range(n):
-                nums1[i] = nums2[i]
-            return
-            
-        if n == 0: 
-            return nums1
-
-        one = m - 1
-        two = n - 1
-        total = m + n - 1
-        while one >= 0 and two >= 0: 
-            if nums2[two] > nums1[one]: 
-                nums1[total] = nums2[two]
-                two -= 1
-                total -= 1
-            else: 
-                nums1[total] = nums1[one]
-                one -= 1
-                total -= 1
-        if one >= 0: 
-            while one >= 0: 
-                nums1[total] = nums1[one]
-                one -=1 
-                total -=1
+        # Pointers for nums1 and nums2
+        p1 = m - 1
+        p2 = n - 1
         
-        if two >= 0: 
-            while two >= 0: 
-                nums1[total] = nums2[two]
-                two -=1 
-                total -=1
-                
+        # Pointer for the end of the merged array
+        p = m + n - 1
+        
+        # While there are elements to be processed in nums2
+        while p2 >= 0:
+            # If nums1 still has elements and nums1's element is larger
+            if p1 >= 0 and nums1[p1] > nums2[p2]:
+                nums1[p] = nums1[p1]
+                p1 -= 1
+            else:
+                # Otherwise, take from nums2
+                nums1[p] = nums2[p2]
+                p2 -= 1
+            # Move the write pointer backwards
+            
+            p -= 1
 
         return nums1
