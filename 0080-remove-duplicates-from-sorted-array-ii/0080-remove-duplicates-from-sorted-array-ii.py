@@ -1,0 +1,16 @@
+from collections import Counter
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        #sliding window 
+        #window is 2 elements 
+        write = 0
+        for read in nums:
+            if write < 2 or read != nums[write - 2]:
+                nums[write] = read
+                write += 1
+        
+        return write
+
+
+
+        
