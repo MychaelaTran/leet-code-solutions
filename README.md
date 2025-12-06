@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0384-shuffle-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0384-shuffle-an-array) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0566-reshape-the-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0384-shuffle-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0384-shuffle-an-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0384-shuffle-an-array) |
 | [0969-number-of-recent-calls](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MychaelaTran/leet-code-solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
@@ -529,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
