@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0649-dota2-senate) |
+| [0929-unique-email-addresses](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0929-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0898-transpose-matrix) |
+| [0929-unique-email-addresses](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0929-unique-email-addresses) |
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1036-rotting-oranges](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1036-rotting-oranges) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0929-unique-email-addresses](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0929-unique-email-addresses) |
 | [0959-3sum-with-multiplicity](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
