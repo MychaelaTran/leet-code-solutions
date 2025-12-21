@@ -1,9 +1,9 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}
-        for i in range(len(nums)):
-            to_find = target - nums[i]
-            if to_find in seen:
-                return [seen[to_find], i]
-            seen[nums[i]] = i
-        
+class Solution(object):
+    def twoSum(self, nums, target):
+        numMap = {}
+        for i, num in enumerate(nums):  #makes (index, value) pairs
+            toFind = target - num
+            if toFind in numMap: 
+                return [numMap[toFind], i]
+            numMap[num] = i
+        return []
