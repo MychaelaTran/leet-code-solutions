@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0384-shuffle-an-array](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0384-shuffle-an-array) |
 | [0498-diagonal-traverse](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0498-diagonal-traverse) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MychaelaTran/leet-code-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/MychaelaTran/leet-code-solutions/tree/master/0871-keys-and-rooms) |
